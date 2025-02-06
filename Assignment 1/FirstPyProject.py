@@ -1,0 +1,5 @@
+name = input("What is your name?: ")
+age = input("Hello, " + name + "! How old are you? --> ")
+grade = input("What is your grade classification? --> ")
+print("It is nice to meet you, " + name + "!\nYou are " + age + " years old!")
+print("You are a " + grade + "!")
