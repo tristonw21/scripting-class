@@ -5,3 +5,4 @@ This is where Im gonna store the homework for my scripting class
 Completed 
     Assignment 1 -- FirstPyProject.py #Basic Input/Output
     Assignment 2 -- Assignment2.py #More Input/Output
+    Assignmetn 2 -- assignment2.py #Looping it all up
