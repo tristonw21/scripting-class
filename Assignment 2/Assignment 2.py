@@ -1,5 +1,20 @@
 #Assignment 2 - More Input/Output
 
+""
+Alright now we are stepping it up a bit in working with user input/output. 
+Write a program that does the following things, 
+Ask the user for their full name, student ID number and expected graduation year. 
+Ask them how many classes currently this semester they are taking worth 1 credit hour and store the number.  (Known as num1)
+Ask them how many classes currently this semester they are taking worth 2 credit hours and store the number. (Known as num2)
+Ask them how many classes currently this semester they are taking worth 3 credit hour and store the number. (Known as num3)
+Ask them how many classes currently this semester they are taking worth 4 credit hour and store the number. (Known as num4)
+Use this math problem on the numbers entered: num1 + (2 x num2) + (3 x num3) + (4 x num4)
+Store it into a variable called "creditHours"
+Finally return the info to the user in  a similar fashion:
+"Your name is (name) with the ID number of (ID number and expect to graduate in the year (year).
+You are currently enrolled in (creditHours) credit hours this semester. Nice Job!"
+""
+
 fullName = input("Enter your full name: ")
 studentID = input("What is your student ID?: ")
 gradYear = input("What year will you graduate?: ")
