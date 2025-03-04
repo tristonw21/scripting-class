@@ -1,6 +1,6 @@
 #Assignment 2 - More Input/Output
 
-""
+"""
 Alright now we are stepping it up a bit in working with user input/output. 
 Write a program that does the following things, 
 Ask the user for their full name, student ID number and expected graduation year. 
@@ -13,7 +13,7 @@ Store it into a variable called "creditHours"
 Finally return the info to the user in  a similar fashion:
 "Your name is (name) with the ID number of (ID number and expect to graduate in the year (year).
 You are currently enrolled in (creditHours) credit hours this semester. Nice Job!"
-""
+"""
 
 fullName = input("Enter your full name: ")
 studentID = input("What is your student ID?: ")
